@@ -16,7 +16,7 @@ Currently, I am expanding my technical knowledge through courses, personal and t
 - ☕ Java
 - 🌐 SpringBoot | JavaScript
 - 💾 mySQL
-- ⚙ Git | Trello | Discord |
+- ⚙ Git | Trello | Discord | Postman
 
 ## ⚛ Stats
 
